@@ -2,7 +2,9 @@
 layout: page
 title: Hello World!
 tagline: Supporting tagline
+published: false
 ---
+
 {% include JB/setup %}
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
@@ -13,7 +15,7 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 In `_config.yml` remember to specify your own data:
     
-    title : My Blog =)
+    title : David Larsen's Blog
     
     author :
       name : Name Lastname
@@ -42,5 +44,6 @@ Here's a sample "posts list".
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+
 
 
