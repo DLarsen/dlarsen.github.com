@@ -2,7 +2,7 @@
 layout: page
 title: Hello World!
 tagline: Supporting tagline
-published: false
+published: true
 ---
 
 {% include JB/setup %}
